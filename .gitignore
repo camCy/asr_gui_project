@@ -13,4 +13,3 @@ models/
 
 # Binario local opcional de ffmpeg
 tools/bin/ffmpeg.exe
-app/*
