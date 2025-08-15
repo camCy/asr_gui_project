@@ -1,0 +1,10 @@
+provider: "whisper"
+language: "es"
+whisper:
+  model: "small"
+  device: "auto"
+  compute:
+    beam_size: 5
+    vad: false
+ui:
+  default_output_dir: "data"

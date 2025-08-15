@@ -1,0 +1,15 @@
+__pycache__/
+.venv/
+build/
+dist/
+run_app.spec
+.DS_Store
+*.log
+
+# Datos pesados (no subirlos al repo)
+data/audio_raw/
+data/audio_clean/
+models/
+
+# Binario local opcional de ffmpeg
+tools/bin/ffmpeg.exe

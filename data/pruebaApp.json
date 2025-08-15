@@ -1,0 +1,24 @@
+{
+  "source_file": "C:\\Users\\RENTAD~1\\AppData\\Local\\Temp\\tmpmpgaslk4\\pruebaApp.mkv",
+  "route": "whisper",
+  "language": "es",
+  "duration_sec": 12.288,
+  "transcript": "Ingeniero Camilo, bien y tú? Bien, listo, ya voy a dejar de grabar. Muchas gracias.",
+  "words": [
+    {
+      "start": 0.0,
+      "end": 10.68,
+      "text": "Ingeniero Camilo, bien y tú? Bien, listo, ya voy a dejar de grabar. Muchas gracias."
+    }
+  ],
+  "speakers": [],
+  "metrics": {
+    "latency_ms": 24812,
+    "rtf": 2.0192658024219177
+  },
+  "cost_estimate": {
+    "currency": "USD",
+    "per_min": 0.0,
+    "total": 0.0
+  }
+}

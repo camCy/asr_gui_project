@@ -1,0 +1,19 @@
+# ASR GUI - Dependencias principales (Windows, Py 3.11/3.12, x64)
+
+# Núcleo ASR (Whisper en CTranslate2)
+faster-whisper==1.0.3
+ctranslate2==4.6.0
+tokenizers==0.19.1
+
+# Interfaz gráfica
+streamlit==1.36.0
+
+# Utilidades y soporte
+numpy==1.26.4
+soundfile==0.12.1
+ffmpeg-python==0.2.0
+
+# Herramientas de instalación
+wheel
+setuptools>=65.0.0
+pip>=24.0
