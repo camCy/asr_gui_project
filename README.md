@@ -24,8 +24,8 @@ tools/
 configs/
   app.example.yaml   # Parámetros por defecto
 data/
-  audio_raw/         # Entradas originales (no subir a GitHub)
-  audio_clean/       # Audios normalizados (no subir a GitHub)
+  audio_raw/         # Entradas originales 
+  audio_clean/       # Audios normalizados 
 models/              # (opcional) caché/modelos
 requirements.txt
 Makefile
@@ -154,8 +154,6 @@ pip uninstall -y pyinstaller
 
 ---
 
-
 ## 📜 Licencias y uso
 - **Whisper**: licencia MIT.
 - Respeta las licencias de los audios que proceses.
-
